@@ -22,6 +22,7 @@ Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 
 Example 3:
 Input: [[2,3],[4,5],[6,7],[8,9],[1,10]]
+Output: [[1,10]]
  */
 public class MergeIntervals {
 
@@ -62,5 +63,4 @@ public class MergeIntervals {
         
         return result;
     }
-
 }
