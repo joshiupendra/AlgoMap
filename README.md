@@ -11,5 +11,6 @@
     	<li>Longest Common Prefix</li>
     	<li>Summary Ranges</li>
     	<li>Product of Array Except Self</li>
+    	<li>Merge Intervals</li>
     </ul>
 </div>
