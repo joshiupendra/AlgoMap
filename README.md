@@ -13,5 +13,6 @@
     	<li>Product of Array Except Self</li>
     	<li>Merge Intervals</li>
     	<li>Spiral Matrix</li>
+    	<li>Rotate Image</li>
     </ul>
 </div>
