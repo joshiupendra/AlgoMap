@@ -14,5 +14,5 @@
     	<li>Merge Intervals</li>
     	<li>Spiral Matrix</li>
     	<li>Rotate Image</li>
-    </ul>
+    </ul> 
 </div>
