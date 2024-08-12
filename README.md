@@ -20,5 +20,6 @@
     	<li>Jewels and Stones</li>
     	<li>Contains Duplicate</li>
     	<li>Ransom Note</li>
+    	<li>Valid Anagram</li>
     </ul>
 </div>
