@@ -14,9 +14,14 @@
     	<li>Merge Intervals</li>
     	<li>Spiral Matrix</li>
     	<li>Rotate Image</li>
+<<<<<<< HEAD
     </ul>
     <h4>HashMaps & Sets</h4>
     <ul>
     	<li>Jewels and Stones</li>
     </ul>
 </div>
+=======
+    </ul> 
+</div>
+>>>>>>> 4435cd585b3da8c6d4ad403cabfae5b6275797e1
