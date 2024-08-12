@@ -19,5 +19,6 @@
     <ul>
     	<li>Jewels and Stones</li>
     	<li>Contains Duplicate</li>
+    	<li>Ransom Note</li>
     </ul>
 </div>
