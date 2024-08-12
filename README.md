@@ -15,4 +15,8 @@
     	<li>Spiral Matrix</li>
     	<li>Rotate Image</li>
     </ul>
+    <h4>HashMaps & Sets</h4>
+    <ul>
+    	<li>Jewels and Stones</li>
+    </ul>
 </div>
