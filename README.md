@@ -21,5 +21,7 @@
     	<li>Contains Duplicate</li>
     	<li>Ransom Note</li>
     	<li>Valid Anagram</li>
+    	<li>Maximum Number of Balloons</li>
+    	<li>Two Sum</li>
     </ul>
 </div>
