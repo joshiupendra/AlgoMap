@@ -23,5 +23,6 @@
     	<li>Valid Anagram</li>
     	<li>Maximum Number of Balloons</li>
     	<li>Two Sum</li>
+    	<li>Valid Sudoku</li>
     </ul>
 </div>
