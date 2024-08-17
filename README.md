@@ -24,6 +24,7 @@
     	<li>Maximum Number of Balloons</li>
     	<li>Two Sum</li>
     	<li>Valid Sudoku</li>
-    	<li>GroupAnagrams</li>
+    	<li>Group Anagrams</li>
+    	<li>Majority Element</li>
     </ul>
 </div>
