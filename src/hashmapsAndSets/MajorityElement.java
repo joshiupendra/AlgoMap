@@ -20,31 +20,53 @@ Output: 2
 public class MajorityElement {
 
 	public static void main(String[] args) {
-		int[] nums = {2,2};
+		int[] nums = { 2, 2, 1, 1, 1, 2, 2 };
 		int result = majorityElement(nums);
 		System.out.println(result);
 	}
 
+	// Most Efficient Way
 	public static int majorityElement(int[] nums) {
+		int candidate = nums[0], count = 1;
+
+		for (int i = 1; i < nums.length; i++) {
+			if (candidate == nums[i]) {
+				count++;
+			} else {
+				if (count == 0) {
+					candidate = nums[i];
+					count = 1;
+				} else {
+					count--;
+				}
+			}
+		}
+
+		return candidate;
+	}
+
+	// Using HashMap
+	public static int majorityElement1(int[] nums) {
 		if (nums.length == 1) {
 			return nums[0];
 		}
-		
-        int majority = (nums.length%2 == 1)? (nums.length / 2 + 1) : (nums.length / 2);
-        HashMap<Integer, Integer> map = new HashMap<>();
-        
-        for (int num: nums) {
-        	if (map.containsKey(num)) {
-        		int count = map.get(num) + 1;
-        		if (count >= majority) {
-        			return num;
-        		}
-        		map.put(num, count);
-        	} else {
-        		map.put(num, 1);
-        	}
-        }
-        
-        return 0;
-    }
+
+		int majority = (nums.length % 2 == 1) ? (nums.length / 2 + 1) : (nums.length / 2);
+		HashMap<Integer, Integer> map = new HashMap<>();
+
+		for (int num : nums) {
+			if (map.containsKey(num)) {
+				int count = map.get(num) + 1;
+				if (count >= majority) {
+					return num;
+				}
+				map.put(num, count);
+			} else {
+				map.put(num, 1);
+			}
+		}
+
+		return 0;
+	}
+
 }
