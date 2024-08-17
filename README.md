@@ -26,5 +26,6 @@
     	<li>Valid Sudoku</li>
     	<li>Group Anagrams</li>
     	<li>Majority Element</li>
+    	<li>Longest Consecutive Sequence</li>
     </ul>
 </div>
