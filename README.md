@@ -27,5 +27,6 @@
     	<li>Group Anagrams</li>
     	<li>Majority Element</li>
     	<li>Longest Consecutive Sequence</li>
+    	<li>Squares of a Sorted Array</li>
     </ul>
 </div>
