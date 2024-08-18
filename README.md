@@ -28,5 +28,6 @@
     	<li>Majority Element</li>
     	<li>Longest Consecutive Sequence</li>
     	<li>Squares of a Sorted Array</li>
+    	<li>Reverse String</li>
     </ul>
 </div>
