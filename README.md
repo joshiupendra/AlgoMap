@@ -29,5 +29,6 @@
     	<li>Longest Consecutive Sequence</li>
     	<li>Squares of a Sorted Array</li>
     	<li>Reverse String</li>
+    	<li>Two Sum II - Input Array Is Sorted</li>
     </ul>
 </div>
