@@ -31,5 +31,6 @@
     	<li>Reverse String</li>
     	<li>Two Sum II - Input Array Is Sorted</li>
     	<li>Valid Palindrome</li>
+    	<li>Three Sum</li>
     </ul>
 </div>
