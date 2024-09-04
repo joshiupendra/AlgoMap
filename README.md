@@ -35,5 +35,6 @@
     	<li>Container With Most Water</li>
     	<li>Trapping Rain Water</li>
     	<li>Valid Parentheses</li>
+    	<li>Evaluate Reverse Polish Notation</li>
     </ul>
 </div>
