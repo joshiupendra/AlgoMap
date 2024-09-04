@@ -34,5 +34,6 @@
     	<li>Three Sum</li>
     	<li>Container With Most Water</li>
     	<li>Trapping Rain Water</li>
+    	<li>Valid Parentheses</li>
     </ul>
 </div>
