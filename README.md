@@ -34,7 +34,12 @@
     	<li>Three Sum</li>
     	<li>Container With Most Water</li>
     	<li>Trapping Rain Water</li>
+    </ul>
+    <h4>Stacks</h4>
+    <ul>
+    	<li>Baseball Game</li>
     	<li>Valid Parentheses</li>
     	<li>Evaluate Reverse Polish Notation</li>
+    	<li>Daily Temperatures</li>
     </ul>
 </div>
