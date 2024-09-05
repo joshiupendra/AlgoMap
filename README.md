@@ -41,5 +41,6 @@
     	<li>Valid Parentheses</li>
     	<li>Evaluate Reverse Polish Notation</li>
     	<li>Daily Temperatures</li>
+    	<li>Min Stack</li>
     </ul>
 </div>
