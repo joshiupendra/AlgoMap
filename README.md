@@ -43,4 +43,8 @@
     	<li>Daily Temperatures</li>
     	<li>Min Stack</li>
     </ul>
+    <h4>Linked List</h4>
+    <ul>
+    	<li>Remove Duplicates From Sorted List</li>
+    </ul>
 </div>
