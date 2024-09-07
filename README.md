@@ -46,5 +46,6 @@
     <h4>Linked List</h4>
     <ul>
     	<li>Remove Duplicates From Sorted List</li>
+    	<li>Reverse Linked List</li>
     </ul>
 </div>
