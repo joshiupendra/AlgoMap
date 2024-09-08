@@ -47,5 +47,6 @@
     <ul>
     	<li>Remove Duplicates From Sorted List</li>
     	<li>Reverse Linked List</li>
+    	<li>Merge Two Sorted Lists</li>
     </ul>
 </div>
