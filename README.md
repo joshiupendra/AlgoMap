@@ -53,4 +53,8 @@
     	<li>Remove Nth Node From End of List</li>
     	<li>Copy List with Random Pointer</li>
     </ul>
+    <h4>Binary Search</h4>
+    <ul>
+    	<li>Binary Search</li>
+    </ul>
 </div>
