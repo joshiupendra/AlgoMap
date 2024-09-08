@@ -56,5 +56,6 @@
     <h4>Binary Search</h4>
     <ul>
     	<li>Binary Search</li>
+    	<li>Search Insert Position</li>
     </ul>
 </div>
