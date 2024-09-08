@@ -33,17 +33,17 @@ public class LinkedListCycle {
 	}
 
 	public static boolean hasCycle(ListNode head) {
-        ListNode firstPointer = head;
-        ListNode secondPointer = head;
+        ListNode slowPointer = head;
+        ListNode fastPointer = head;
 		
-        while (firstPointer != null && secondPointer != null) {
-        	if (firstPointer.next != null && secondPointer.next != null && secondPointer.next.next != null) {
-        		firstPointer = firstPointer.next;
-        		secondPointer = secondPointer.next.next;
+        while (slowPointer != null && fastPointer != null) {
+        	if (slowPointer.next != null && fastPointer.next != null && fastPointer.next.next != null) {
+        		slowPointer = slowPointer.next;
+        		fastPointer = fastPointer.next.next;
         	} else {
         		break;
         	}
-        	if (firstPointer == secondPointer) {
+        	if (slowPointer == fastPointer) {
         		return true;
         	}
         }

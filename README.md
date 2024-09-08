@@ -49,5 +49,6 @@
     	<li>Reverse Linked List</li>
     	<li>Merge Two Sorted Lists</li>
     	<li>Linked List Cycle</li>
+    	<li>Middle of the Linked List</li>
     </ul>
 </div>
