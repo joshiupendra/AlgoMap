@@ -50,5 +50,6 @@
     	<li>Merge Two Sorted Lists</li>
     	<li>Linked List Cycle</li>
     	<li>Middle of the Linked List</li>
+    	<li>Remove Nth Node From End of List</li>
     </ul>
 </div>
