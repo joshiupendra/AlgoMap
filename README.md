@@ -51,5 +51,6 @@
     	<li>Linked List Cycle</li>
     	<li>Middle of the Linked List</li>
     	<li>Remove Nth Node From End of List</li>
+    	<li>Copy List with Random Pointer</li>
     </ul>
 </div>
