@@ -57,5 +57,6 @@
     <ul>
     	<li>Binary Search</li>
     	<li>Search Insert Position</li>
+    	<li>First Bad Version</li>
     </ul>
 </div>
