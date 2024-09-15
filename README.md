@@ -59,5 +59,6 @@
     	<li>Search Insert Position</li>
     	<li>First Bad Version</li>
     	<li>Valid Perfect Square</li>
+    	<li>Search a 2D Matrix</li>
     </ul>
 </div>
