@@ -58,5 +58,6 @@
     	<li>Binary Search</li>
     	<li>Search Insert Position</li>
     	<li>First Bad Version</li>
+    	<li>Valid Perfect Square</li>
     </ul>
 </div>
