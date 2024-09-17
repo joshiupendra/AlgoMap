@@ -62,5 +62,6 @@
     	<li>Search a 2D Matrix</li>
     	<li>Find Minimum in Rotated Sorted Array</li>
     	<li>Search in Rotated Sorted Array</li>
+    	<li>Koko Eating Bananas</li>
     </ul>
 </div>
