@@ -61,5 +61,6 @@
     	<li>Valid Perfect Square</li>
     	<li>Search a 2D Matrix</li>
     	<li>Find Minimum in Rotated Sorted Array</li>
+    	<li>Search in Rotated Sorted Array</li>
     </ul>
 </div>
