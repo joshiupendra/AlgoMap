@@ -67,5 +67,6 @@
     <h4>Sliding Window</h4>
     <ul>
     	<li>Maximum Average Subarray I</li>
+    	<li>Max Consecutive Ones III</li>
     </ul>
 </div>
