@@ -64,4 +64,8 @@
     	<li>Search in Rotated Sorted Array</li>
     	<li>Koko Eating Bananas</li>
     </ul>
+    <h4>Sliding Window</h4>
+    <ul>
+    	<li>Maximum Average Subarray I</li>
+    </ul>
 </div>
