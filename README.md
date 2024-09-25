@@ -69,5 +69,6 @@
     	<li>Maximum Average Subarray I</li>
     	<li>Max Consecutive Ones III</li>
     	<li>Longest Substring Without Repeating Characters</li>
+    	<li>Longest Repeating Character Replacement</li>
     </ul>
 </div>
