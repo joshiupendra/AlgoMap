@@ -70,5 +70,6 @@
     	<li>Max Consecutive Ones III</li>
     	<li>Longest Substring Without Repeating Characters</li>
     	<li>Longest Repeating Character Replacement</li>
+    	<li>Minimum Size Subarray Sum</li>
     </ul>
 </div>
