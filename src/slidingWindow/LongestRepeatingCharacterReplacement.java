@@ -31,31 +31,25 @@ public class LongestRepeatingCharacterReplacement {
 	}
 
 	public static int characterReplacement(String s, int k) {
-        int longest = 0;
-        int l = 0;
-        int[] counts = new int[26];
-        
-        for (int r=0; r<s.length(); r++) {
-        	counts[s.charAt(r) - 65] += 1;
-        	
-        	while (((r-l+1) - maxCount(counts)) > k) {
-        		counts[s.charAt(r) - 65] -= 1;
-        		l += 1;
-        	}
-        	longest = Math.max(longest, (r-l+1));
+		int ans = 0;
+        int n = s.length();
+        for (char c = 'A'; c <= 'Z'; c++) {
+            int i = 0, j = 0, replaced = 0;
+            while (j < n) {
+                if (s.charAt(j) == c) {
+                    j++;
+                } else if (replaced < k) {
+                    j++;
+                    replaced++;
+                } else if (s.charAt(i) == c) {
+                    i++;
+                } else {
+                    i++;
+                    replaced--;
+                }
+                ans = Math.max(ans, j - i);
+            }
         }
-        
-        
-        return longest;
+        return ans;
     }
-	
-	public static int maxCount(int[] counts) {
-		int max = 0;
-		
-		for (int i=0; i<counts.length; i++) {
-			max = Math.max(max, counts[i]);
-		}
-		
-		return max;
-	}
 }
