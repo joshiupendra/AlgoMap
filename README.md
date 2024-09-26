@@ -71,5 +71,6 @@
     	<li>Longest Substring Without Repeating Characters</li>
     	<li>Longest Repeating Character Replacement</li>
     	<li>Minimum Size Subarray Sum</li>
+    	<li>Permutation in String</li>
     </ul>
 </div>
