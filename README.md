@@ -76,5 +76,6 @@
     <h4>Trees</h4>
     <ul>
     	<li>Invert Binary Tree</li>
+    	<li>Maximum Depth of Binary Tree</li>
     </ul>
 </div>
