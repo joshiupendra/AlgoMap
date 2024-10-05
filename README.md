@@ -73,4 +73,8 @@
     	<li>Minimum Size Subarray Sum</li>
     	<li>Permutation in String</li>
     </ul>
+    <h4>Trees</h4>
+    <ul>
+    	<li>Invert Binary Tree</li>
+    </ul>
 </div>
