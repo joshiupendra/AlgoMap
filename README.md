@@ -84,5 +84,6 @@
     	<li>Path Sum</li>
     	<li>Subtree of Another Tree</li>
     	<li>Binary Tree Level Order Traversal</li>
+    	<li>Kth Smallest Element in a BST</li>
     </ul>
 </div>

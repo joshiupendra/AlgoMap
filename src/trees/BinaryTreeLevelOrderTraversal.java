@@ -21,6 +21,9 @@ Output: [[1]]
 Example 3:
 Input: root = []
 Output: []
+
+Time Complexity: O(n)
+Space Complexity: O(n)
  */
 
 public class BinaryTreeLevelOrderTraversal {
