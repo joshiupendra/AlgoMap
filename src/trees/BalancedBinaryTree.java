@@ -31,10 +31,7 @@ public class BalancedBinaryTree {
 	static boolean balanced = true;
 	
 	public static boolean isBalanced(TreeNode root) {
-        
-		
         getHeight(root);
-        
 		return balanced;
     }
 	
