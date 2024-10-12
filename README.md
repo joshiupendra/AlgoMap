@@ -80,5 +80,6 @@
     	<li>Balanced Binary Tree</li>
     	<li>Diameter of Binary Tree</li>
     	<li>Same Tree</li>
+    	<li>Symmetric Tree</li>
     </ul>
 </div>
