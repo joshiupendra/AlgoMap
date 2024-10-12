@@ -88,5 +88,6 @@
     	<li>Minimum Absolute Difference in BST</li>
     	<li>Validate Binary Search Tree</li>
     	<li>Lowest Common Ancestor of a Binary Search Tree</li>
+    	<li>Implement Trie (Prefix Tree)</li>
     </ul>
 </div>
