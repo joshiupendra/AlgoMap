@@ -86,5 +86,6 @@
     	<li>Binary Tree Level Order Traversal</li>
     	<li>Kth Smallest Element in a BST</li>
     	<li>Minimum Absolute Difference in BST</li>
+    	<li>Validate Binary Search Tree</li>
     </ul>
 </div>
