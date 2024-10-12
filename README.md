@@ -79,5 +79,6 @@
     	<li>Maximum Depth of Binary Tree</li>
     	<li>Balanced Binary Tree</li>
     	<li>Diameter of Binary Tree</li>
+    	<li>Same Tree</li>
     </ul>
 </div>
