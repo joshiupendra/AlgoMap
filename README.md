@@ -77,5 +77,6 @@
     <ul>
     	<li>Invert Binary Tree</li>
     	<li>Maximum Depth of Binary Tree</li>
+    	<li>Balanced Binary Tree</li>
     </ul>
 </div>
