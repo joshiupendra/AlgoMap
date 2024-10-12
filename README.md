@@ -83,5 +83,6 @@
     	<li>Symmetric Tree</li>
     	<li>Path Sum</li>
     	<li>Subtree of Another Tree</li>
+    	<li>Binary Tree Level Order Traversal</li>
     </ul>
 </div>
