@@ -81,5 +81,6 @@
     	<li>Diameter of Binary Tree</li>
     	<li>Same Tree</li>
     	<li>Symmetric Tree</li>
+    	<li>Path Sum</li>
     </ul>
 </div>
