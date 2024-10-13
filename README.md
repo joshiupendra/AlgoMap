@@ -94,5 +94,6 @@
     <ul>
     	<li>Last Stone Weight</li>
     	<li>Kth Largest Element in an Array</li>
+    	<li>Top K Frequent Elements</li>
     </ul>
 </div>
