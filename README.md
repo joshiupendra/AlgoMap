@@ -93,5 +93,6 @@
     <h4>Heaps<h4>
     <ul>
     	<li>Last Stone Weight</li>
+    	<li>Kth Largest Element in an Array</li>
     </ul>
 </div>
