@@ -96,5 +96,6 @@
     	<li>Kth Largest Element in an Array</li>
     	<li>Top K Frequent Elements</li>
     	<li>K Closest Points to Origin</li>
+    	<li>Merge k Sorted Lists</li>
     </ul>
 </div>
