@@ -21,8 +21,8 @@ Output: [1]
 public class TopKFrequentElements {
 
 	public static void main(String[] args) {
-		int[] nums = {1,1,1,2,2,3};
-		int k = 2;
+		int[] nums = {1,1,1,2,2,3,3};
+		int k = 3;
 		int[] result = topKFrequent(nums, k);
 		for (int res: result) {
 			System.out.print(res + " ");
@@ -50,6 +50,8 @@ public class TopKFrequentElements {
         		minHeap.add(entry);
         	}
         }
+        
+        System.out.println(minHeap);
         
         for (int i=0; i<k; i++) {
         	Map.Entry<Integer, Integer> entry = minHeap.poll();

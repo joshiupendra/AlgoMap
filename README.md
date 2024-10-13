@@ -95,5 +95,6 @@
     	<li>Last Stone Weight</li>
     	<li>Kth Largest Element in an Array</li>
     	<li>Top K Frequent Elements</li>
+    	<li>K Closest Points to Origin</li>
     </ul>
 </div>
