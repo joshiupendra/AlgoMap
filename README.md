@@ -98,4 +98,8 @@
     	<li>K Closest Points to Origin</li>
     	<li>Merge k Sorted Lists</li>
     </ul>
+    <h4>Recursive Backtracking</h4>
+    <ul>
+    	<li>Subsets</li>
+    </ul>
 </div>
