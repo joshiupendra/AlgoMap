@@ -101,5 +101,6 @@
     <h4>Recursive Backtracking</h4>
     <ul>
     	<li>Subsets</li>
+    	<li>Permutations</li>
     </ul>
 </div>
