@@ -102,5 +102,6 @@
     <ul>
     	<li>Subsets</li>
     	<li>Permutations</li>
+    	<li>Combinations</li>
     </ul>
 </div>
