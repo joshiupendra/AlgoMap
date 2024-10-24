@@ -103,5 +103,6 @@
     	<li>Subsets</li>
     	<li>Permutations</li>
     	<li>Combinations</li>
+    	<li>Combination Sum</li>
     </ul>
 </div>
