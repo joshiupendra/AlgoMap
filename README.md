@@ -90,7 +90,7 @@
     	<li>Lowest Common Ancestor of a Binary Search Tree</li>
     	<li>Implement Trie (Prefix Tree)</li>
     </ul>
-    <h4>Heaps<h4>
+    <h4>Heaps</h4>
     <ul>
     	<li>Last Stone Weight</li>
     	<li>Kth Largest Element in an Array</li>
