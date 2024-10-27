@@ -105,5 +105,6 @@
     	<li>Combinations</li>
     	<li>Combination Sum</li>
     	<li>Letter Combinations of a Phone Number</li>
+    	<li>Generate Parentheses</li>
     </ul>
 </div>
