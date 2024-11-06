@@ -108,4 +108,8 @@
     	<li>Generate Parentheses</li>
     	<li>Word Search</li>
     </ul>
+    <h4>Graphs</h4>
+    <ul>
+    	<li>Find if Path Exists in Graph</li>
+    </ul>
 </div>
