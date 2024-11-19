@@ -111,5 +111,6 @@
     <h4>Graphs</h4>
     <ul>
     	<li>Find if Path Exists in Graph</li>
+    	<li>Number of Islands</li>
     </ul>
 </div>
